@@ -23,6 +23,7 @@ export const Header = styled.header`
   div {
     display: flex;
     align-items: center;
+    gap: 16px;
 
     img {
       width: 18px;
